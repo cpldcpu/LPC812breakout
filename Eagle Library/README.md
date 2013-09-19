@@ -1,5 +1,5 @@
-Eagle-Library for the NXP LPC800 series microcontrollers
-========================================================
+Eagle-Library for NXP LPC800 series MCUs
+========================================
 
 All devices are untested. Use at your own risk.
 
