@@ -6,7 +6,7 @@ The board can be programmed using FlashMagic and a cheap USB to serial adapter. 
 
 Bonus: Eagle Library for all LPC800 parts
 
-[Shared design at OSH Park](http://oshpark.com/shared_projects/lVMUzaMk)
+[Shared design at OSH Park](http://oshpark.com/shared_projects/rQra0bCX)
 
 Status
 ======
