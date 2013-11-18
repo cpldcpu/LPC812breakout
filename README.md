@@ -2,7 +2,9 @@ LPC812breakout
 ==============
 
 Breakout Board for the NXP LPC812M101JPH20 microcontroller. Includes push buttons for reset and activating the serial bootloader. 
-The board can be programmed using FlashMagic and a cheap USB to serial adapter. (<$2 on ebay)
+The board can be programmed using FlashMagic and a cheap USB to serial adapter. (<$2 on ebay). The board has an integrated 500mA 3.3V LDO to supply both the MCU and connected devices from the USB port.
+
+The entire board with LPC812 is smaller than a DIP LPC1114. See below for size comparison.
 
 Bonus: Eagle Library for all LPC800 parts
 
@@ -13,10 +15,16 @@ Status
 
  - 2013/09/17 Untested. Board ordered at OSH park
  - 2013/09/29 Designed revision 2
+ - 2013/10/?? Version 2 board received, built and tested. Everything works as intended.
  
+## Top side ##
+![Front](images/LPC812_top.jpg)
 
-## Front side of PCB as rendered by OSH Park
-![Front](/top.png)
+## Bottom ##
+![Front](images/LPC812_bottom.jpg)
 
-## Rear side of PCB as rendered by OSH Park
-![Back](/bottom.png)
+## Size comparison of first version to LPC1114 ##
+![Front](images/size-comparison.jpg)
+
+## On breadboard ##
+![Front](images/LPC812_on_bb.jpg)
