@@ -6,6 +6,9 @@ The board has an integrated 500mA 3.3V LDO to supply both the MCU and connected 
 
 The four pins on the top side (5V,RX,TX,GND) can be used to connect a cheap USB to serial adapter (<$2 on ebay) and program the device via the internal bootloader using FlashMagic.
 
+ * FlashMagic can be downloaded [here](http://www.flashmagictool.com/).
+ * Developer environemt and LPC800 datasheets by NXP can be found  [here](http://www.lpcware.com/content/device/lpc800).
+
 The entire board with LPC812 is smaller than a DIP LPC1114. See below for size comparison.
 
 Bonus: Eagle Library for all LPC800 parts
