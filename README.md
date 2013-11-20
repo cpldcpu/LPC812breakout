@@ -4,7 +4,7 @@ LPC812breakout
 Breakout Board for the NXP LPC812M101JPH20 microcontroller. Includes push buttons for reset and activating the serial bootloader. 
 The board has an integrated 500mA 3.3V LDO to supply both the MCU and connected devices from the USB port. 
 
-The four pins on the top side (5V,RX,TX,GND) can be used to connect a cheap USB to serial adapter (<$2 on ebay) and program the device via the internal bootloader using FlashMagic.
+The four pins on the top side (5V,RX,TX,GND) can be used to connect a cheap USB to serial adapter (<$2 on ebay) and program the device via the internal bootloader using FlashMagic. Note that you have to cross RX and TX. RX from the serial port goes to TX and vice versa for TX.
 
  * FlashMagic can be downloaded [here](http://www.flashmagictool.com/).
  * Developer environemt and LPC800 datasheets by NXP can be found  [here](http://www.lpcware.com/content/device/lpc800).
