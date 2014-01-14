@@ -13,7 +13,7 @@ The entire board with LPC812 is smaller than a DIP LPC1114. See below for size c
 
 Bonus: Eagle Library for all LPC800 parts
 
-[Shared design at OSH Park](http://oshpark.com/shared_projects/rQra0bCX)
+You can order PCB's here: [Shared design at OSH Park](http://oshpark.com/shared_projects/rQra0bCX) The price is $3.30 including shipping for three boards.
 
 Status
 ======
