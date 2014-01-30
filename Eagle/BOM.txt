@@ -1,0 +1,17 @@
+# Part  Type            Value                         Package               Pins
+1 C1    Capacitor       100n                          805                   2
+2 C2    Cap. MLCC 10V   10u                           805                   2
+3 C3    Cap. MLCC 10V   10u                           805                   2
+4 IC1   LDO             AMS1117-3.3                   SOT223                3
+5 R1    Resistor        50k                           805                   2
+6 R2    Resistor        10k                           805                   2
+7 S1    Pushbutton      SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE 2
+8 S2    Pushbutton      SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE 2
+9 IC2   Controller      NXP LPC812M101JDH20           TSSOP20               20
+
+In addition:
+
+10 	Pin Header	10x1
+11 	Pin Header	11x1
+12 	Pin Header	4x1
+ 
